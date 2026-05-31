@@ -1,8 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-
-
 # <div style="background-color: white; border: 2px solid black; border-radius: 20px; padding: 15px 25px; display: inline-block; color: black;">
 # <font face='Liberation serif' size=3>
 #     
