@@ -23,4 +23,4 @@ Thumbs.db  # Windows
 .DS_Store  # macOS
 
 # Ненужные
-tmp_data.txt
+tmp1_data.txt
